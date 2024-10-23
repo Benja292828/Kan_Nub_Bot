@@ -98,10 +98,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
  ### `—◉ 🌹DUDAS SOBRE EL BOT?,CONTACTA AL CREADOR🌹`
-<a href="http://wa.me/595972157130" target="blank"><img src="https://img.shields.io/badge/Ivan_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/56952375374" target="blank"><img src="https://img.shields.io/badge/Benja_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉📄✦CUSTOMER SUPPORT✦📄`
-<a href="http://wa.me/595972157130" target="blank"><img src="https://img.shields.io/badge/Ivan_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/56952375374" target="blank"><img src="https://img.shields.io/badge/Benja_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ## `🌹PROPIETARIO DEL BOT🌹` 
