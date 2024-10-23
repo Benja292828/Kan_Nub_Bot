@@ -82,7 +82,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Black-termux
+> cd kan-termux
 > npm start
 ```
 
@@ -91,7 +91,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> rm -rf Blacksession
+> rm -rf kansession
 > npm start
 ```
 
@@ -105,17 +105,17 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `🌹PROPIETARIO DEL BOT🌹` 
-<a href="https://github.com/Ivanmods15"><img src="https://github.com/Ivanmods15.png" width="250" height="250" alt="Ivan"/></a>
+<a href="https://github.com/Benja292828"><img src="https://github.com/Benja292828.png" width="250" height="250" alt="Benja"/></a>
   
 
 ## `🌼COLABORADORES DEL BOT🌼` 
-<a href="[https://github.com/elias1524]"><img src="https://github.com/elias1524.png" width="100" height="100" alt="Elías"/></a>
+<a href="[https://github.com/elias1524]"><img src="https://github.com/elias1524.png" width="100" height="100" alt="Benja"/></a>
 <a href="[https://github.com/Dioneibi]"><img src="https://github.com/Dioneibi.png" width="100" height="100" alt="Dioneibi"/></a>
 <td align="center"><a 
 <a href="[https://github.com/Jostin207]"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Jostin"/></a>
   
-## `Goku-Black-Bot-MD-Lite`
-## `Dueño:Ivan`
+## `Kan_Nub_Bot`
+## `Dueño:Benja`
 
 ____
 ### **`Superiority Pro Hosting 🤖`**
