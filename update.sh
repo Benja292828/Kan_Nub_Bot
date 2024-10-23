@@ -1,7 +1,7 @@
 # Código desarrollado por @gata_dios 
   # * Al bifurcar este repositorio, dejen los créditos a todos los creadores de cada código por favor. ♥
 #!/data/data/com.termux/files/usr/bin/bash 
-BOT_DIR="Goku-Black-Bot-MD-Lite"  
+BOT_DIR="Kan_Nub_Bot"  
 BOT_REPO="https://github.com/Ivanmods15/$BOT_DIR"
 DB_FILE="database.json"
 
