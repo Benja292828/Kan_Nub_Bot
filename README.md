@@ -59,7 +59,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite.git && cd Goku-Black-Bot-MD-Lite
+git clone https://github.com/Benja292828/Kan_Nub_Bot.git && cd Kan_Nub_Bot
 ```
 
 ```bash
