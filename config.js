@@ -15,27 +15,27 @@ global.confirmCode = ''
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
   ['18294868853', '𝐃𝐢𝐨𝐧𝐞𝐢𝐛𝐢', true],
-  ['595972157130', '𝐂𝐫𝐞𝐚𝐝𝐨𝐫', true], 
+  ['56952375374', '𝐂𝐫𝐞𝐚𝐝𝐨𝐫', true], 
   ['593939005387', '𝙅𝙤stin🍊🔧', true]];
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['18294868853', '595972157130', '51950148255', '', '']
+global.mods = ['18294868853', '56952375374', '51950148255', '', '']
 
-global.suittag = ['595972157130']
+global.suittag = ['56952375374']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = `ᘜOKᑌ-ᗷᒪ̀AᑕK-ᗷOT-ᗰᗪ-ᒪITᗴ🪼`
-global.author = `♾━━━━━━━━\n𝐆𝐨𝐤𝐮-𝐁𝐥𝐚𝐜𝐤-𝐁𝐨𝐭-𝐌𝐃-𝐋𝐢𝐭𝐞\n𝑰𝒗𝒂𝒏\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 𝑮𝒐𝒌𝒖-𝑩𝒍𝒂𝒄𝒌-𝑩𝒐𝒕-𝑴𝑫-𝑳𝒊𝒕𝒆`;
-global.wm = '𝗚𝗼𝗸𝘂-𝗕𝗹𝗮𝗰𝗸-𝗕𝗼𝘁-𝗠𝗗-𝗟𝗶𝘁𝗲';
-global.titulowm = '𝖦𝗈𝗄𝗎-𝖡𝗅𝖺𝖼𝗄-𝖡𝗈𝗍-𝖬𝖣-𝖫𝗂𝗍𝖾';
-global.titulowm2 = `ＧＯＫＵ-ＢＬＡＣＫ-ＢＯＴ-ＭＤ-ＬＩＴＥ`
+global.author = `♾━━━━━━━━\nKan_Nub_Bot\nbenja\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 𝑮𝒐𝒌𝒖-𝑩𝒍𝒂𝒄𝒌-𝑩𝒐𝒕-𝑴𝑫-𝑳𝒊𝒕𝒆`;
+global.wm - 'Kan_Nub_Bot;
+global.titulowm = 'Kan_Nub_Bot';
+global.titulowm2 = `K A N - N U B - B O T`
 global.igfg = 'ᥫᩣɢᴏᴋᴜ-ʙʟᴀᴄᴋ-ʙᴏᴛ-ᴍᴅ-ʟɪᴛᴇ🪐'
-global.botname = 'ꍌꄲꀘ꒤-ꃳ꒒ꋬꉔꀘ-ꃳꄲ꓄-ꂵ꒯-꒒꒐꓄ꏂ 🪻'
-global.dev = 'gσкυ-вℓα¢к-вσт-м∂-ℓιтє🐦‍⬛'
-global.textbot = '𝐆𝐎𝐊𝐔-𝐁𝐋𝐀𝐂𝐊-𝐁𝐎𝐓-𝐌𝐃-𝐋𝐈𝐓𝐄'
-global.gt = '𝔾𝕆𝕂𝕌-𝔹𝕃𝔸ℂ𝕂-𝔹𝕆𝕋-𝕄𝔻-𝕃𝕀𝕋𝔼';
-global.namechannel = 'ꍌꄲꀘ꒤-ꃳ꒒ꋬꉔꀘ-ꃳꄲ꓄-ꂵ꒯-꒒꒐꓄ꏂ'
+global.botname = 'KAN-NUB-BOT 🪻'
+global.dev = 'KAN-NUB-BOT🐦‍⬛'
+global.textbot = 'KAN-NUB-BOT'
+global.gt = 'KAN-NUB-BOT';
+global.namechannel = 'KAN-NUB-BOT'
 global.vs = '3.0.1'
 
 
