@@ -5,11 +5,11 @@ sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-rel
 sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
 sudo dnf clean all -y
 
-RUN git clone https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite 
+RUN git clone https://github.com/Benja292828/Kan_Nub_Bot 
 
-WORKDIR /root/Goku-Black-Bot-MD-Lite 
+WORKDIR /root/Kan_Nub_Bot
 
-COPY ./root/Goku-Black-Bot-MD-Lite 
+COPY ./root/Kan_Nub_Bot
 
 RUN yarn install
 
